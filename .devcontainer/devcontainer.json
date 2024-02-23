@@ -5,14 +5,14 @@
 	     "ghcr.io/devcontainers/features/azure-cli:1": {},
 	     "ghcr.io/devcontainers-contrib/features/terraform-asdf:2": {},
 	     "ghcr.io/microsoft/codespace-features/external-repository:latest": {
-	        "cloneUrl": "https://hackathondemo@dev.azure.com/hackathondemo/Hackathon/_git/HackathonInfra",
+	        "cloneUrl": "https://sdellalibera@dev.azure.com/sdellalibera/AspireProgram/_git/Hackathon-ops",
 	        "folder": "/workspaces/ado-repo"
 	     }
 	},
 	"customizations": {
 	   "vscode": {
 	      "settings": {
-		      "adoCodespacesAuth.tenantID": "b0b2e4f7-a38a-42b7-a39a-bdf165894c2f",
+		      "adoCodespacesAuth.tenantID": "72f988bf-86f1-41af-91ab-2d7cd011db47",
 		      "extensions.showRecommendationsOnlyOnDemand": true,
 		      "extensions.ignoreRecommendations": true
 	      },
